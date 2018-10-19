@@ -1,3 +1,3 @@
-Colornet
+<h2>Colornet</h2>
 
-<h2>Turn B/W Images into coloured using deep learning</h2> 
+Turn B/W Images into coloured using deep learning
